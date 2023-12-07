@@ -1,6 +1,6 @@
 # MML-Paper-03
 ## Introduction
-This repository containts the Python code necessary to recreate the results (regarding the short quantitative analysis) from the presentation by the private investigators in the MML seminar on December 05th.
+This repository containts the Python code necessary to recreate the results (regarding the short quantitative analysis) found in the presentation by the private investigators in the MML seminar on December 05th.
 
 Given a set of authors, we calculate quantitative measures of collaboration and provide visualizations.
 
