@@ -6,7 +6,7 @@ Some values have to user specified. Thes are marked by comments of the form "**#
 
 Given a set of authors, we calculate quantitative measures of collaboration and provide visualizations.
 
-The notebook was made with the paper "Understanding deep learning (still) requires rethinking generalization" and the corresponding authors Chiyuan Zhang, Samy Bengio, Benjamin Recht, Moritz Hardt and Oriol Vinyals in mind. It should theoretically work for any set of authors, but I have only tested it for the aforementioned authors.
+The notebook was made with the paper _"Understanding deep learning (still) requires rethinking generalization"_ and the corresponding authors Chiyuan Zhang, Samy Bengio, Benjamin Recht, Moritz Hardt and Oriol Vinyals in mind. It should theoretically work for any set of authors, but I have only tested it for the aforementioned authors.
 
 ## Algorithm
 1. Download the publication data for each author from Google Scholar using scholarly.
