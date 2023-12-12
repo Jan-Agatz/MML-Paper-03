@@ -20,7 +20,7 @@ If you want to use the notebook for other sets of authors, you have to change th
 
 Also, since Google Scholar does not have a public API (at least to my knowlege), we used the third party Python module scholarly. Since we also used the proxy functionality by scholarly (which is recommended to not get blocked by Google Scholar) retriving the data takes quite some time.
 
-# TODO
+## TODO
 * Provide the possibility to save data locally or in Google Drive, thus saving time (since we don't have to reload the Google Scholar data)
 * Automate and enhance the tidying up-process
 * Create coincidence matrices for conferences
